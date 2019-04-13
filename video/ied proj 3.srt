@@ -1,0 +1,100 @@
+1
+00:00:00,400 --> 00:00:01,400
+ 
+
+2
+00:00:01,700 --> 00:00:02,800
+ 
+
+3
+00:00:04,660 --> 00:00:05,660
+ 
+
+4
+00:00:05,955 --> 00:00:06,955
+ 
+
+5
+00:00:07,955 --> 00:00:09,745
+ 
+
+6
+00:00:11,245 --> 00:00:14,225
+this is our IED project no. 3
+
+7
+00:00:14,225 --> 00:00:15,715
+Team 86
+
+8
+00:00:16,025 --> 00:00:18,485
+and the name of the project is
+
+9
+00:00:19,565 --> 00:00:22,335
+Learn Piano Gloves (LPG).
+
+10
+00:00:22,335 --> 00:00:25,585
+so in this, each finger has an led connected
+
+11
+00:00:25,605 --> 00:00:28,955
+and whenever the led lights up, one is supposed to
+
+12
+00:00:28,955 --> 00:00:31,985
+press that key, and so a song is played.
+
+13
+00:00:31,985 --> 00:00:34,145
+We also have an app companion
+
+14
+00:00:34,745 --> 00:00:37,675
+which can connect with the - bluetooth
+
+15
+00:00:37,675 --> 00:00:40,695
+gloves and decide the playback speed.
+
+16
+00:00:44,765 --> 00:00:46,505
+So, here is the demo.
+
+17
+00:00:51,015 --> 00:00:52,575
+This is the startup sequence.
+
+18
+00:00:55,285 --> 00:00:56,285
+Pressing a node
+
+19
+00:00:56,675 --> 00:00:57,675
+Pressing a node
+
+20
+00:00:58,085 --> 00:00:59,085
+Pressing a node
+
+21
+00:01:08,835 --> 00:01:09,835
+Pressing a node
+
+22
+00:01:11,335 --> 00:01:12,335
+Pressing a node
+
+23
+00:01:12,365 --> 00:01:14,085
+Pressing a node
+
+24
+00:01:22,345 --> 00:01:23,345
+Pressing a node
+
+25
+00:01:24,775 --> 00:01:25,775
+song - ends here
+
